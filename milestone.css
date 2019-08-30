@@ -1,0 +1,52 @@
+.section-1 {
+  border: 2px solid black;
+  overflow: auto;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Comic sans-serif;
+  margin: 10px auto;
+}
+.section-2 {
+  border: 2px dotted seagreen;
+  overflow: auto;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Arial;
+  margin: 10px auto;
+}
+.section-3 {
+  border: 2px dotted orange;
+  overflow: auto;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Arial;
+  margin: 10px auto;
+}
+.section-4 {
+  border: 2px solid purple;
+  overflow: auto;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Comic sans-serif;
+  margin: 10px auto;
+}
+.section-5 {
+  border: 2px dashed yellow;
+  overflow: auto;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Courier;
+  margin: 10px auto;
+
+}
+#extra-info-ENIAC {
+  font-style: italic;
+
+}
+img {
+  float: left;
+  padding: 5px;
+}
+.section-1 h1{
+  color: Blue;
+}
