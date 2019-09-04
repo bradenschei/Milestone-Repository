@@ -47,15 +47,27 @@ img {
   float: left;
   padding: 5px;
 }
+
+.sention-4 img{
+  top: 20px;
+}
+
 .section-1 h1{
   color: Blue;
   background-color: lightblue;
 }
+
 .section-2 h1{
   background-color: lightgreen;
   color: forestgreen;
 }
+
 .section-3 h1{
   background-color:coral
-   
+  color: orange;
+}
+
+.section-4 h1{
+  background-color: #crimson;
+  color: #darkred;
 }
