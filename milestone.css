@@ -1,3 +1,4 @@
+/* Section Paragraphs*/
 .section-1 {
   border: 2px solid black;
   overflow: auto;
@@ -43,31 +44,56 @@
   font-style: italic;
 
 }
+
+/*Section Images/Backgrounds */
 img {
   float: left;
   padding: 5px;
 }
 
 .sention-4 img{
+  position: relative;
   top: 20px;
 }
 
 .section-1 h1{
   color: Blue;
   background-color: lightblue;
+  text-align: center;
 }
 
 .section-2 h1{
   background-color: lightgreen;
   color: forestgreen;
+  text-align: center;
 }
 
 .section-3 h1{
-  background-color:coral
-  color: orange;
+  background-color: coral;
+  color: firebrick;
+  text-align: center;
 }
 
 .section-4 h1{
-  background-color: #crimson;
-  color: #darkred;
+  background-color: lightcoral;
+  color: crimson;
+  text-align: center;
+}
+
+.section-5 h1{
+  background-color: salmon;
+  color: orangered;
+  text-align: center;
+}
+
+.cat-gif {
+text-align: center;
+overflow: auto;
+}
+.cat-gif img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  left: 840px;
 }
